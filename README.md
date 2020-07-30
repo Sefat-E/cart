@@ -1,2 +1,1 @@
-# practice-cart
-# shopping-cart
+# cart-for-practice
